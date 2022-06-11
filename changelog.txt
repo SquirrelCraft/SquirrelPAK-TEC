@@ -2,6 +2,70 @@
 SquirrelPAK TEC - TelEcommuniCations
 Change Log
 
+SquirrelPAK TEC - Beta 5
+File Version 1.18.2+0.0.5
+================================================================================
+
+SquirreBook Update
+
+This update to SquirrelPAK TEC (TelEcommuniCations) we have updated the mods that have updates and we fixed the menu music crashing by disabling the loading screen music. I know strange right? Anyway, menu music is back just have no loading beats. 
+
+We now have a FaceBook page! Will be posting updates and other stuff there. Feel free to drop in, like the page and be part of the converstation. That means you Steve and Alex!
+
+FaceBook Page:
+https://www.FaceBook.com/SquirrelCraftMP
+
+FaceBook Group
+https://www.facebook.com/groups/squirrelcraft
+
+
+Known Issues:
+
+We have disabled the loading music due to crashes, If you experience crashes please open an issue!
+
+There is an issue that is with the options.txt file. There are issues
+with the mods I usually use so until we get that fix I will ship a options 
+file. Before updating to new versions if you make changes to your options file 
+ make a backup copy first and replace it after updating. 
+ 
+
+
+Added:
+------------------------------------------- 
+N/A
+------------------------------------------- 
+
+
+Updated:
+------------------------------------------- 
+architectury-4.4.70
+Bookshelf-Forge-1.18.2-13.2.20
+collective-1.18.2-4.28
+CraftTweaker-forge-1.18.2-9.1.153
+ftb-chunks-forge-1802.3.6-build.147
+ftb-library-forge-1802.3.6-build.123
+guardvillagers-1.18.2.1.4.3
+laserio-1.1.1.jar
+lightmanscurrency-1.18.2-1.1.4.2
+selene-1.18.2-1.17.4
+spark-1.9.11-forge
+supermartijn642configlib-1.1.3-forge-mc1.18
+
+------------------------------------------- 
+
+
+Removed:
+------------------------------------------- 
+N/A
+------------------------------------------- 
+
+
+
+
+================================================================================
+SquirrelPAK TEC - TelEcommuniCations
+Change Log
+
 SquirrelPAK TEC - Beta 4
 File Version 1.18.2+0.0.4
 ================================================================================

@@ -51,7 +51,7 @@ S:customgameintroskiptext = '';
 ##[minecraftwindow]
 
 [A minecraft restart is required after changing this value.]
-S:customwindowtitle = 'SquirrelPAK - AVP';
+S:customwindowtitle = 'SquirrelPAK - TEC';
 [A minecraft restart is required after changing this value.]
 B:customwindowicon = 'true';
 

@@ -190,19 +190,6 @@ customization {
   value = Presents
 }
 
-customization {
-  orientation = top-left
-  loop = false
-  channel = master
-  x = 42
-  width = 50
-  action = custom_layout_element:fancymenu_extension:audio_item
-  actionid = be9a498b-d83e-4fb2-be35-b85c960757c01653050085445
-  y = 100
-  audio_source:e8c40d97-7927-479d-953c-6e4d0779f91e1653050138849 = config/drippyloadingscreen/music/Were the Resistors Squirrel Edit.ogg;EXTERNAL_LOCAL;45;0
-  once_per_session = false
-  height = 50
-}
 
 customization {
   orientation = bottom-left
