@@ -2,8 +2,8 @@
 SquirrelPAK TEC - TelEcommuniCations
 Change Log
 
-SquirrelPAK TEC - Beta 2
-File Version 1.18.2+0.0.2
+SquirrelPAK TEC - Beta 3
+File Version 1.18.2+0.0.3
 ================================================================================
 
 Can you hear me now? Open Beta
