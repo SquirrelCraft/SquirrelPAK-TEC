@@ -1,7 +1,7 @@
 {
     "name": "SquirrelPAK MC12",
     "icon": "squirrelpak:textures/logos/scsp_mc12_thumb.png",
-    "category": "patchouli:other_packs",
+    "category": "patchouli:other_packs/legacy",
   "sortnum": 0,
   "pages": [
         {

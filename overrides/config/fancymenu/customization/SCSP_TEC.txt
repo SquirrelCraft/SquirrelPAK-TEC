@@ -300,19 +300,8 @@ customization {
   y = 44
   delayappearance = true
   alignment = centered
-  value = v1.18.2+0.0.5
+  value = v1.18.2+1.0.0
   delayappearanceeverytime = false
 }
 
-customization {
-  orientation = bottom-centered
-  shadow = true
-  x = 0
-  action = addtext
-  actionid = 8f0ef4b4-69a8-4a20-9fc6-2db4a567ca2a1652984829531
-  y = -18
-  scale = 1.5
-  alignment = centered
-  value = §f(§cOpen Beta v5§f)
-}
 

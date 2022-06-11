@@ -7,7 +7,7 @@
 	#The name of the modpack
 	modpackName = "SquirrelPAK TEC"
 	#The version of the modpack
-	modpackVersion = "v1.18.2+0.0.3"
+	modpackVersion = "v1.18.2+1.0.0"
 	#Use the metadata.json to determine the modpack version
 	#ONLY ENABLE THIS IF YOU KNOW WHAT YOU ARE DOING
 	useMetadata = false

@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "SquirrelPAK TEC",
-  "version": "1.18.2+0.0.5",
+  "version": "1.18.2+1.0.0",
   "author": "",
   "files": [
     {
@@ -36,7 +36,7 @@
     },
     {
       "projectID": 472521,
-      "fileID": 3824842,
+      "fileID": 3825288,
       "required": true
     },
     {
@@ -51,7 +51,7 @@
     },
     {
       "projectID": 422301,
-      "fileID": 3807524,
+      "fileID": 3826097,
       "required": true
     },
     {
@@ -381,7 +381,7 @@
     },
     {
       "projectID": 282001,
-      "fileID": 3770724,
+      "fileID": 3825460,
       "required": true
     },
     {
@@ -436,12 +436,12 @@
     },
     {
       "projectID": 416089,
-      "fileID": 3732701,
+      "fileID": 3825848,
       "required": true
     },
     {
       "projectID": 388172,
-      "fileID": 3819966,
+      "fileID": 3827265,
       "required": true
     },
     {
@@ -466,7 +466,7 @@
     },
     {
       "projectID": 618298,
-      "fileID": 3819260,
+      "fileID": 3825915,
       "required": true
     },
     {
@@ -536,7 +536,7 @@
     },
     {
       "projectID": 499980,
-      "fileID": 3823491,
+      "fileID": 3826120,
       "required": true
     },
     {
@@ -621,7 +621,7 @@
     },
     {
       "projectID": 233105,
-      "fileID": 3813637,
+      "fileID": 3825684,
       "required": true
     },
     {
@@ -716,7 +716,7 @@
     },
     {
       "projectID": 257814,
-      "fileID": 3757894,
+      "fileID": 3825231,
       "required": true
     },
     {
@@ -736,7 +736,7 @@
     },
     {
       "projectID": 613067,
-      "fileID": 3808476,
+      "fileID": 3825476,
       "required": true
     },
     {
@@ -776,7 +776,7 @@
     },
     {
       "projectID": 326041,
-      "fileID": 3813643,
+      "fileID": 3825686,
       "required": true
     },
     {
@@ -806,7 +806,7 @@
     },
     {
       "projectID": 412082,
-      "fileID": 3819452,
+      "fileID": 3826125,
       "required": true
     },
     {

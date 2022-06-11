@@ -1,8 +1,8 @@
 {
     "name": "SquirrelPAK AV",
     "icon": "squirrelpak:textures/logos/scsp_av_thumb.png",
-    "category": "patchouli:other_packs",
-  "sortnum": 3,
+    "category": "patchouli:other_packs/118_packs",
+  "sortnum": 1,
   "pages": [
         {
             "type": "patchouli:text",

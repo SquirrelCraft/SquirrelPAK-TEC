@@ -10,7 +10,7 @@
 	#Villager Related Settings.
 	[common.villagers]
 		#Whether the wandering trader will have additional trades that allow you to buy misc items with money.
-		addCustomWanderingTrades = true
+		addCustomWanderingTrades = false
 		#Whether the banker villager profession will have any registered trades. The banker sells Lightman's Currency items for coins.
 		addBanker = false
 		#Whether the cashier villager profession will have any registered trades.. The cashier sells an amalgamation of vanilla traders products for coins.
