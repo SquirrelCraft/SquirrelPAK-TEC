@@ -1,0 +1,54 @@
+================================================================================
+SquirrelPAK TEC - TelEcommuniCations
+Change Log
+
+SquirrelPAK TEC - Beta 1
+File Version 1.18.2+0.0.1
+================================================================================
+
+Can you hear me now? Open Beta
+
+Welcome to SquirrelPAK TEC (TelEcommuniCations). Featuring Redstone, Networks, & Computers built on the SquirrelPAK AVP (Almost Vanilla Plus) Pack. We added Redstone mods like Tiny Redstone and other, network mods Xnet and LaserIO and to control them all, CCTweaked for your computer needs. For the full list see the wiki on the github page.
+
+This mod pack will be the base on all the tech mods we will be releasing later in the year so be sure to check the change logs and in game manual for the release of those packs.
+
+
+
+Known Issues:
+There is one known issue and that is with the options.txt file. There are issues
+with the mods I usually use so until we get that fix I will ship a options 
+file. Before updating to new versions if you make changes to your options file 
+ make a backup copy first and replace it after updating. 
+
+
+
+# Note we are only showing changed from the base mod pack SquirrelPAK AVP v1.18.2+1.0.0. See change log for that mod pack to see all the other mod changes. 
+
+
+Added:
+------------------------------------------- 
+cc-tweaked-1.18.2-1.100.5
+xnet-1.18-4.0.5.jar
+laserio-1.0.3.jar
+rangedwirelessredstone-1.18-2.0.1.jar
+redstonepen-1.18.2-1.0.10.jar
+SuperCircuitMaker2-0.2.9+1.18.2.jar
+tinyredstone-1.18.2-3.2.0.jar
+tinygates-2.0.0.jar
+wlrs-1.12.0-1.18.2.jar
+tinypipes-2.0.2.jar
+rsgauges-1.18.2-1.2.16.jar
+------------------------------------------- 
+
+
+Updated:
+------------------------------------------- 
+N/A
+------------------------------------------- 
+
+
+Removed:
+------------------------------------------- 
+N/A
+------------------------------------------- 
+

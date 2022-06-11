@@ -1,0 +1,19 @@
+{
+    "name": "Submit an Issue",
+    "icon": "minecraft:creeper_head",
+    "category": "patchouli:open_beta",
+  "sortnum": 1,
+  "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "This pack is in open beta!"
+        }
+  ,
+    {
+      "type": "patchouli:link",
+      "text": "Click the button below to link to our GitHub Issues page.",
+      "url": "https://github.com/SquirrelCraft/SquirrelPAK-AVP/issues",
+      "link_text": "Report Issue"
+    }
+  ]
+}
